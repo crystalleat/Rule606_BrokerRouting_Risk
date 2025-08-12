@@ -50,6 +50,6 @@ The project examines publicly available SEC Rule 606 broker-dealer routing data 
 - Python – pandas, numpy, matplotlib
 - Tableau – interactive data visualization
 - SEC Rule 606 XML disclosures – public broker-dealer routing data
-- https://public.tableau.com/app/profile/crystal.leat/viz/BrokerDealerRoutingRiskandIncentiveAnalysisSECRule606/Dashboard1
+- Tableau Dashboard: https://public.tableau.com/app/profile/crystal.leat/viz/BrokerDealerRoutingRiskandIncentiveAnalysisSECRule606/Dashboard1
   
 
