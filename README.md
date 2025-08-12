@@ -4,7 +4,7 @@
 This repository contains the analysis, code, and visualizations for the research paper:
 Measuring BrokerDealer Routing Risk and Transparency Using SEC Rule 606 Disclosures
 
-The project examines publicly available SEC Rule 606 broker-dealer routing data to evaluate venue concentration, routing consistency, and payment for order flow (PFOF) incentives — providing insight into how these factors may impact execution quality and market transparency.
+The project examines publicly available SEC Rule 606 broker-dealer routing data to evaluate venue concentration, routing consistency, and payment for order flow (PFOF) incentives, providing insight into how these factors may impact execution quality and market transparency.
 
 **Key Features**
 - Data Ingestion & Parsing – Extracts and processes quarterly Rule 606 XML disclosures from multiple brokers.
@@ -25,11 +25,11 @@ The project examines publicly available SEC Rule 606 broker-dealer routing data 
 
 
 **Repository Structure**
-├── Code_BrokerDealer_Routing_Risk_Analysis.ipynb     # Python data processing & analysis
-├── Tableau_BrokerDealer_Routing_Risk_Dashboard.twbx  # Interactive Tableau dashboard
-├── Dashboard_BrokerDealer_Routing_Risk.png           # Static dashboard preview
-├── Measuring_BrokerDealer_Routing_Risk_SEC_Rule606.pdf  # Full research paper (APA format)
-└── README.md                                         # Project documentation
+├── Code_BrokerDealer_Routing_Risk_Analysis.ipynb         # Python data processing & analysis
+├── Tableau_BrokerDealer_Routing_Risk_Dashboard.twbx      # Interactive Tableau dashboard
+├── Dashboard_BrokerDealer_Routing_Risk.png               # Static dashboard preview
+├── Measuring_BrokerDealer_Routing_Risk_SEC_Rule606.pdf   # Full research paper (APA format)
+└── README.md                                             # Project documentation
 
 **Methodology**
 1. Data Acquisition – Downloaded Rule 606 XML files from broker-dealer public disclosures.
