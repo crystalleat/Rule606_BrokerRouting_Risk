@@ -25,11 +25,11 @@ The project examines publicly available SEC Rule 606 broker-dealer routing data 
 
 
 **Repository Structure**
-├── Code_BrokerDealer_Routing_Risk_Analysis.ipynb         # Python data processing & analysis
-├── Tableau_BrokerDealer_Routing_Risk_Dashboard.twbx      # Interactive Tableau dashboard
-├── Dashboard_BrokerDealer_Routing_Risk.png               # Static dashboard preview
-├── Measuring_BrokerDealer_Routing_Risk_SEC_Rule606.pdf   # Full research paper (APA format)
-└── README.md                                             # Project documentation
+├── Code_BrokerDealer_Routing_Risk_Analysis.ipynb     # Python data processing & analysis
+├── Tableau_BrokerDealer_Routing_Risk_Dashboard.twbx  # Interactive Tableau dashboard
+├── Dashboard_BrokerDealer_Routing_Risk.png           # Static dashboard preview
+├── Measuring_BrokerDealer_Routing_Risk_SEC_Rule606.pdf  # Full research paper (APA format)
+└── README.md                                         # Project documentation
 
 **Methodology**
 1. Data Acquisition – Downloaded Rule 606 XML files from broker-dealer public disclosures.
