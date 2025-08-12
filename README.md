@@ -25,7 +25,6 @@ The project examines publicly available SEC Rule 606 broker-dealer routing data 
 
 
 **Repository Structure**
-.
 
 ├── Code_BrokerDealer_Routing_Risk_Analysis.ipynb # Python data processing & analysis
 
